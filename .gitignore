@@ -122,3 +122,6 @@ target/
 
 
 # End of https://www.gitignore.io/api/java,angular,java-web,intellij+all
+
+application-dev.properties
+application-real.properties
